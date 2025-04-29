@@ -13,7 +13,6 @@ Cada exercício está localizado em uma pasta separada. Para executar os testes 
 
 
 ```bash
-cd nome-da-pasta-do-exercicio
 
 npm install --save-dev jest @types/jest ts-jest
 
