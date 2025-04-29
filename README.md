@@ -10,20 +10,24 @@ Cada exercício está localizado em uma pasta separada. Para executar os testes 
 
 ##  Como executar os testes
 
-###  Acesse a pasta do exercício desejado
+
 
 ```bash
 cd nome-da-pasta-do-exercicio
 
 npm install --save-dev jest @types/jest ts-jest
 
-npm test
+npm test:exercicio01
+npm test:exercicio02
+npm test:exercicio03
+
+```
 
 Tecnologias Utilizadas
-Node.js
+- Node.js
 
-Jest
+ - Jest
 
-TypeScript
+ - TypeScript
 
-ts-jest
+ - ts-jest
